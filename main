@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dark Theme Photojournalist Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Dark Theme Photojournalist Portfolio</h1>
+            <nav>
+                <ul>
+                    <li><a href="#about">About Me</a></li>
+                    <li><a href="#photos">Photo Series</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section id="about">
+        <div class="container">
+            <h2>About Me</h2>
+            <p>Welcome to my photojournalist portfolio! I am passionate about capturing compelling stories through photography. With a keen eye for detail and a love for storytelling, I strive to create meaningful visual narratives that resonate with viewers.</p>
+            <p>Feel free to explore my work and get in touch if you're interested in collaborating or have any questions.</p>
+        </div>
+    </section>
+
+    <section id="photos">
+        <div class="container">
+            <h2>Photo Series</h2>
+            <div class="photo-gallery">
+                <div class="photo">
+                    <img src="photo1.jpg" alt="Photo 1">
+                    <p>Photo description 1</p>
+                </div>
+                <div class="photo">
+                    <img src="photo2.jpg" alt="Photo 2">
+                    <p>Photo description 2</p>
+                </div>
+                <!-- Add more photos here -->
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Dark Theme Photojournalist Portfolio</p>
+        </div>
+    </footer>
+</body>
+</html>
